@@ -1,0 +1,21 @@
+path: /content/data
+train: train/images
+val: validation/images
+nc: 16
+names:
+- link
+- button
+- input
+- select
+- textarea
+- label
+- checkbox
+- radio
+- dropdown
+- slider
+- toggle
+- menu_item
+- clickable
+- icon
+- image
+- text
